@@ -1,0 +1,355 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+ 
+.raj{
+    background-color: antiquewhite;
+}
+
+.main-contant{
+   height: 60px;
+   box-sizing: border-box;
+   background-color: #ffffff;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   justify-content: space-evenly;
+
+}
+
+.logo{
+   background-image: url(Flipkart-Logo.jpg);
+   height: 80px;
+   width: 140px;
+   background-size: cover;
+}
+
+/** one **/
+
+.one{
+    display: flex;
+   justify-content: space-evenly;
+   background-color: aliceblue;
+    border-radius: 5px;
+}
+.input-one{
+    height: 40px;
+    width: 570px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    background-color: aliceblue;
+    border: none;
+    font-size: 18px;
+
+}
+
+.icon{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 40px;
+   width: 40px;
+}
+
+/** button **/
+
+button{
+    font-size: 20px;
+    border: none;
+    background-color: white;
+}
+
+/** two **/
+
+.two{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+
+.card{
+   padding: 10px;
+}
+
+/** three **/
+
+.three{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+.home{
+    padding: 10px;
+    font-size: 18px;
+}
+p{
+    font-size: 20px;
+}
+
+/** second div **/
+
+.second-div{
+    height: 125px; 
+    background-color: #ffff;
+    margin: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+
+.image-one{
+    background-image: url(surf.webp);
+    height: 64px;
+    width: 64px;
+    background-size: cover;
+}
+
+a{
+    font-weight: bold;
+}
+
+.image-two{
+    background-image: url(mobile.webp);
+    height: 64px;
+    width: 64px;
+    background-size: cover;
+}
+
+.image-three{
+    background-image: url(fashion.webp);
+    height: 64px;
+    width: 64px;
+    background-size: cover;
+}
+
+.image-four{
+    background-image: url(electronics.webp);
+    height: 64px;
+    width: 64px;
+    background-size: cover;
+}
+
+.image-five{
+    background-image: url(home.webp);
+    height: 64px;
+    width: 64px;
+    background-size: cover;
+}
+
+.image-sex{
+    background-image: url(appliances.webp);
+    height: 64px;
+    width: 64px;
+    background-size: cover;
+}
+
+.image-seven{
+    background-image: url(travel.webp);
+    height: 64px;
+    width: 64px;
+    background-size: cover;
+}
+
+.image-eight{
+    background-image: url(toy.webp);
+    height: 64px;
+    width: 64px;
+    background-size: cover;
+}
+
+.image-nine{
+    background-image: url(bike.webp);
+    height: 64px;
+    width: 64px;
+    background-size: cover;
+}
+
+/** hereo page **/
+
+.hero-page{
+    background-image: url(hero-page.webp);
+    height: 230px;
+    width: 1390;
+    margin: 12px;
+}
+
+/** top deals **/
+
+.top-deals{
+    height: 70px;
+    background-color: #ffffff;
+    margin: 12px;
+    margin-bottom: 0px;
+}
+
+#top{
+   margin-left: 20px;
+   padding-top: 20px ;
+   background-color: #ffffff;
+   font-weight: bold;
+}
+
+/** photo **/
+
+.photo{
+    height: 300px;
+    background-color: #ffffff;
+    margin: 0px 12px 12px 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.contant{
+    border: 1px solid black;
+    padding: 10px;
+    background-color: #ffffff;
+    }
+   
+.contant:hover{
+    color:  red;
+    border: 2px solid red;
+}
+
+.photo-one{
+    background-image: url(watch-gold.jpg);
+    height: 180px;
+    width: 180px;
+    background-size: cover;
+}
+
+.photo-two{
+    background-image: url(shose\ -\ Copy.jpg);
+    height: 180px;
+    width: 180px;
+    background-size: cover;
+}
+
+.photo-three{
+    background-image: url(lober.webp);
+    height: 180px;
+    width: 180px;
+    background-size: cover;
+}
+
+.photo-four{
+    background-image: url(jucket.jpg);
+    height: 180px;
+    width: 180px;
+    background-size: cover;
+}
+
+.photo-five{
+ background-image: url(girl.webp);
+    height: 180px;
+    width: 180px;
+    background-size: cover;
+}
+
+/** hero logo **/
+
+.hero-logo{
+    height: 280px;
+    background-color: #ffffff;
+    margin: 0px 12px 12px 12px;
+    display: flex;
+   justify-content: center;
+    
+}
+
+.big-image{
+    background-image: url(taddy-hero.webp);
+    height: 250px;
+    width: 450px;
+    background-size: cover;
+    margin: 5px;
+}
+
+.big-image-one{
+    background-image: url(dettol.webp);
+    height: 250px;
+    width: 450px;
+    background-size: cover;
+    margin: 5px;
+}
+
+.big-image-two{
+    background-image: url(big-sel.webp);
+    height: 250px;
+    width: 450px;
+    background-size: cover;
+    margin: 5px;
+}
+
+.hero-logo-two{
+height: 280px;
+background-color: #ffffff;
+margin: 0px 12px 0px 12px;
+display: flex;
+justify-content: center;
+}
+
+.big-image-three{
+    background-image: url(vivo.webp);
+    height: 250px;
+    width: 450px;
+    background-size: cover;
+    margin: 5px;
+}
+
+.big-image-four{
+    background-image: url(wash.webp);
+    height: 250px;
+    width: 450px;
+    background-size: cover;
+    margin: 5px;
+}
+
+.big-image-five{
+    background-image: url(kitchin.webp);
+    height: 250px;
+    width: 450px;
+    background-size: cover;
+    margin: 5px;
+}
+
+/** footer **/
+.footer{
+    height: 300px;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+ul{
+    list-style-type: none;
+    
+}
+
+li{
+    margin-top: 5px; 
+}
+
+.ul-font{
+    font-size: 15px;
+    margin: 15px;
+    color: #878787;
+
+}
+
+.https{
+    color: white;
+    text-decoration: none;
+    font-size: 13px;
+}
